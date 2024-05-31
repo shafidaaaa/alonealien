@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
   <p style="margin-right: 10px; text-size: 100px;">
-    **GET TO KNOW ME!**
+    <b>GET TO KNOW ME!<b/>
   </p>
   <img src="https://github.com/shafidaaaa/shafidaaaa/blob/main/pixel%20art%20totoro5.png">
 </div>
