@@ -7,6 +7,9 @@
     <li>
       <a href="https://github.com/shafidaaaa/dicoding-belajar/tree/main/AIRQUALITYV2">Air Quality in Beijing District Analysis</a>
     </li>
+    <li>
+      <a href="https://github.com/shafidaaaa/Bangkit/tree/main/Capstone/model">BISINDO Letter Sign Language Classification</a>
+    </li>
   </ul>
 </p>
 <p align="left">
