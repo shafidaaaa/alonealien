@@ -1,3 +1,9 @@
+<p>
+  My Project
+</p>
+<p>
+  <ul>[Rock Paper Scissors Classification](https://github.com/shafidaaaa/dicoding-belajar/tree/main/Belajar%20Machine%20Learning%20untuk%20Pemula)</ul>
+</p>
 <p align="left">
 <a href="https://github.com/shafidaaaa">
   <img height="180c" src="https://github-readme-stats.vercel.app/api?username=shafidaaaa&show_icons=true&theme=transparent"/>
