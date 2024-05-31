@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center;">
-  <h1 style="margin-right: 10px;">
+  <p style="margin-right: 10px; text-size: 30px;">
     GET TO KNOW ME!
-  </h1>
+  </p>
   <img src="https://github.com/shafidaaaa/shafidaaaa/blob/main/pixel%20art%20totoro5.png">
 </div>
 
