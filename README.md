@@ -1,4 +1,3 @@
-
 <div style="display: flex; align-items: center;">
   <div style="background-color: yellow; color: black; border-radius: 15px; padding: 10px; margin-right: 10px;">
     <h1 style="margin: 0;">GET TO KNOW ME!</h1>
