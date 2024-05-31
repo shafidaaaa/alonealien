@@ -11,5 +11,9 @@ My Project
 - [Air Quality in Beijing District Analysis](https://github.com/shafidaaaa/dicoding-belajar/tree/main/AIRQUALITYV2)
 - [BISINDO Letter Sign Language Classification](https://github.com/shafidaaaa/Bangkit/tree/main/Capstone/model)
 
-[![Shafida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shafidaaaa&show_icons=true&theme=transparent)](https://github.com/shafidaaaa)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafidaaaa&layout=compact&show_icons=true&theme=transparent)](https://github.com/shafidaaaa)
+<p align="left">
+<a href="https://github.com/shafidaaaa">
+  <img height="180c" src="https://github-readme-stats.vercel.app/api?username=shafidaaaa&show_icons=true&theme=transparent"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafidaaaa&layout=compact&show_icons=true&theme=transparent"/>
+</a>
+</p>
