@@ -1,9 +1,7 @@
 <p>
   My Project
-</p>
-<p>
   <ul>
-    <a href="https://github.com/shafidaaaa/dicoding-belajar/tree/main/Belajar%20Machine%20Learning%20untuk%20Pemula">[Rock Paper Scissors Classification]</a>
+    <a href="https://github.com/shafidaaaa/dicoding-belajar/tree/main/Belajar%20Machine%20Learning%20untuk%20Pemula"><li>Rock Paper Scissors Classification</li></a>
   </ul>
 </p>
 <p align="left">
