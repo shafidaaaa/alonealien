@@ -1,4 +1,4 @@
-<div style="display: block; align-items: center;">
+<div style="display: inline; align-items: center;">
   <h1 style="margin-right: 10px; align: left;">GET TO KNOW ME!</h1><img src="https://github.com/shafidaaaa/shafidaaaa/blob/main/pixel%20art%20totoro5.png" style="max-height: 150px; align: right;">
 </div>
 
