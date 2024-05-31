@@ -1,9 +1,9 @@
-<table style="border: none; width: 100%; table-layout: fixed; display: block;">
+<table style="border: none; width: 100px; table-layout: fixed; display: block;">
   <tr style="border: none; display: flex; flex-wrap: wrap;">
-    <td style="border: none; width: 50%; vertical-align: middle; text-align: center; box-sizing: border-box; padding: 10px;">
+    <td style="border: none; width: 50px; vertical-align: middle; text-align: center; box-sizing: border-box; padding: 40px;">
       <h1 style="margin: 0; font-size: 50px; width: 100%;"><b>GET TO KNOW ME!</b></h1>
     </td>
-    <td style="border: none; width: 50%; vertical-align: middle; text-align: center; box-sizing: border-box; padding: 10px;">
+    <td style="border: none; width: 50px; vertical-align: middle; text-align: center; box-sizing: border-box; padding: 40px;">
       <img src="https://github.com/shafidaaaa/shafidaaaa/blob/main/pixel%20art%20totoro5.png" style="max-height: 150px; width: 100%; height: auto;">
     </td>
   </tr>
