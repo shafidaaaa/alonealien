@@ -1,4 +1,4 @@
-<span style="display: flex; align-items: center;">
+<span style="display: block; align-items: center;">
   <h2 style="margin-right: 10px; text-size: 100px;">
     <b>GET TO KNOW ME!<b/>
   </h2>
