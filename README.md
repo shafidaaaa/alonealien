@@ -3,7 +3,6 @@
   <ul>
     <li>
       <a href="https://github.com/shafidaaaa/dicoding-belajar/tree/main/Belajar%20Machine%20Learning%20untuk%20Pemula">Rock Paper Scissors Classification</a>
-      https://github.com/shafidaaaa/dicoding-belajar/tree/main/AIRQUALITYV2
     </li>
     <li>
       <a href="https://github.com/shafidaaaa/dicoding-belajar/tree/main/AIRQUALITYV2">Air Quality in Beijing District Analysis</a>
