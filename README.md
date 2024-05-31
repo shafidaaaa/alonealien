@@ -1,9 +1,12 @@
-<span style="display: block; align-items: center;">
-  <h2 style="margin-right: 10px; text-size: 100px;">
+<table style="display: block; align-items: center;">
+  <td style="margin-right: 10px; text-size: 100px;">
     <b>GET TO KNOW ME!<b/>
-  </h2>
-  <img src="https://github.com/shafidaaaa/shafidaaaa/blob/main/pixel%20art%20totoro5.png" style="float: right;">
-</span>
+  </td>
+  <td>
+    <img src="https://github.com/shafidaaaa/shafidaaaa/blob/main/pixel%20art%20totoro5.png" style="float: right;">
+  </td>
+  
+</table>
 
 <h3>
   I'm Shafida and I'm interested in machine learning, now I'm learning how to do Object Detection. Hopefully, I will be able to do it in the future.
