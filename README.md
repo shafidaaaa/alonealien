@@ -2,7 +2,7 @@
   <h2 style="margin-right: 10px; text-size: 100px;">
     <b>GET TO KNOW ME!<b/>
   </h2>
-  <img src="https://github.com/shafidaaaa/shafidaaaa/blob/main/pixel%20art%20totoro5.png">
+  <img src="https://github.com/shafidaaaa/shafidaaaa/blob/main/pixel%20art%20totoro5.png" style="float: right;">
 </div>
 
 <h3>
