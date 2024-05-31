@@ -1,3 +1,13 @@
+<div>
+  <h3>
+    GET TO KNOW ME!
+  </h3>
+  <img src="https://github.com/shafidaaaa/shafidaaaa/blob/main/pixel%20art%20totoro5.png">
+</div>
+
+<h6>
+  I'm Shafida and I'm interested in machine learning, now I'm learning how to do Object Detection. Hopefully, I will be able to do it in the future.
+</h6>
 <p>
   My Project
   <ul>
