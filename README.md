@@ -2,9 +2,11 @@
   <h1 style="margin-right: 10px; align: left;">GET TO KNOW ME!🌜😺</h1><img src="https://github.com/shafidaaaa/shafidaaaa/blob/main/pixel%20art%20totoro5.png" style="max-height: 150px; align: right;">
 </div>
 
+<br>
 ### I'm Shafida and I'm interested in machine learning, now I'm learning how to do Object Detection🔥. Hopefully, I will be able to do it in the future💪.
 
-
+<br>
+<br>
 My Project 📂
 - [Rock Paper Scissors Classification](https://github.com/shafidaaaa/dicoding-belajar/tree/main/Belajar%20Machine%20Learning%20untuk%20Pemula)
 - [Air Quality in Beijing District Analysis](https://github.com/shafidaaaa/dicoding-belajar/tree/main/AIRQUALITYV2)
