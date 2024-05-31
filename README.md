@@ -1,10 +1,9 @@
-<br>
 <div style="display: inline; align-items: center;">
   <h1 style="margin-right: 10px; align: left;">GET TO KNOW ME!🌜😺</h1><img src="https://github.com/shafidaaaa/shafidaaaa/blob/main/pixel%20art%20totoro5.png" style="max-height: 150px; align: right;">
 </div>
 <br>
 <br>
-### I'm Shafida and I'm interested in machine learning and this is why I join Bangkit's program, now I'm learning about how to do Object Detection🔥 Hopefully, I will be able to do it in the future💪
+### HI! I'm Shafida and I'm interested in machine learning and this is why I join Bangkit's program, now I'm learning about how to do Object Detection🔥 Hopefully, I will be able to do it in the future💪
 
 <br>
 <br>
