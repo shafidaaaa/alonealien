@@ -3,7 +3,9 @@
 </div>
 <br>
 <br>
-### HI! I'm Shafida and I'm interested in machine learning and this is why I join Bangkit's program, now I'm learning about how to do Object Detection🔥 Hopefully, I will be able to do it in the future💪
+<h3> 
+  HI! I'm Shafida and I'm interested in machine learning and this is why I join Bangkit's program, now I'm learning about how to do Object Detection🔥 Hopefully, I will be able to do it in the future💪
+</h3>
 
 <br>
 <br>
