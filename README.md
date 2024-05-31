@@ -1,12 +1,26 @@
+<table style="border: none; width: 100%; table-layout: fixed;">
+  <tr style="border: none;">
+    <td style="border: none; width: 50%; vertical-align: middle; text-align: center;">
+      <h1 style="margin: 0; font-size: 100px;"><b>GET TO KNOW ME!</b></h1>
+    </td>
+    <td style="border: none; width: 50%; vertical-align: middle; text-align: center;">
+      <img src="https://github.com/shafidaaaa/shafidaaaa/blob/main/pixel%20art%20totoro5.png" style="max-height: 150px;">
+    </td>
+  </tr>
+</table>
+
+
+
 <table style="display: block; align-items: center;">
   <td style="margin-right: 10px; text-size: 100px;">
-    <b>GET TO KNOW ME!<b/>
+    <h1><b>GET TO KNOW ME!<b/></b></h1>
   </td>
   <td>
     <img src="https://github.com/shafidaaaa/shafidaaaa/blob/main/pixel%20art%20totoro5.png" style="float: right;">
   </td>
-  
 </table>
+
+
 
 <h3>
   I'm Shafida and I'm interested in machine learning, now I'm learning how to do Object Detection. Hopefully, I will be able to do it in the future.
