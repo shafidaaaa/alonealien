@@ -1,10 +1,3 @@
-<div style="display: flex; align-items: center;">
-  <div style="background-color: yellow; color: black; border-radius: 15px; padding: 10px; margin-right: 10px;">
-    <h1 style="margin: 0;">GET TO KNOW ME!</h1>
-  </div>
-  <img src="https://github.com/shafidaaaa/shafidaaaa/blob/main/pixel%20art%20totoro5.png" style="max-height: 150px;">
-</div>
----try
 <div style="display: inline; align-items: center;">
   <h1 style="margin-right: 10px; align: left;">GET TO KNOW ME!🌜😺</h1><img src="https://github.com/shafidaaaa/shafidaaaa/blob/main/pixel%20art%20totoro5.png" style="max-height: 150px; align: right;">
 </div>
