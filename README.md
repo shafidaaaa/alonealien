@@ -1,7 +1,7 @@
-<div>
-  <h3>
+<div style="display: flex; align-items: center;">
+  <h1>
     GET TO KNOW ME!
-  </h3>
+  </h1>
   <img src="https://github.com/shafidaaaa/shafidaaaa/blob/main/pixel%20art%20totoro5.png">
 </div>
 
