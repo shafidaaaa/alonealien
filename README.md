@@ -1,5 +1,6 @@
 <center>
-  **GET TO KNOW ME! 🌜😺** <img src="https://github.com/shafidaaaa/shafidaaaa/blob/main/pixel%20art%20totoro5.png" width="200">
+  <h1 style="display: inline;">GET TO KNOW ME! 🌜😺</h1>
+  <img src="https://github.com/shafidaaaa/shafidaaaa/blob/main/pixel%20art%20totoro5.png" width="200" style="vertical-align: middle;">
 </center>
 
 <center>
