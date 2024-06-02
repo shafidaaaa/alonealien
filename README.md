@@ -1,5 +1,5 @@
 <center>
-  <h1>GET TO KNOW ME! 🌜😺</h1><img src="https://github.com/shafidaaaa/shafidaaaa/blob/main/pixel%20art%20totoro5.png" width="300">
+  <h1>GET TO KNOW ME! 🌜😺</h1><img src="https://github.com/shafidaaaa/shafidaaaa/blob/main/pixel%20art%20totoro5.png" width="200">
 </center>
 
 ---
