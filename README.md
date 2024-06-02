@@ -4,7 +4,7 @@
 </center>
 
 <center>
-  <h1 display="inline">GET TO KNOW ME! 🌜😺</h1><img src="https://github.com/shafidaaaa/shafidaaaa/blob/main/pixel%20art%20totoro5.png" width="200">
+  <h1 align="left">GET TO KNOW ME! 🌜😺</h1><img src="https://github.com/shafidaaaa/shafidaaaa/blob/main/pixel%20art%20totoro5.png" width="200" align="right">
 </center>
 
 ---
