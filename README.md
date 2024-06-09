@@ -13,7 +13,7 @@
 * [Rock Paper Scissors Classification](https://github.com/shafidaaaa/dicoding-belajar/tree/main/Belajar%20Machine%20Learning%20untuk%20Pemula)
 * [Air Quality in Beijing District Analysis](https://github.com/shafidaaaa/dicoding-belajar/tree/main/AIRQUALITYV2)
 * [BISINDO Letter Sign Language Classification](https://github.com/shafidaaaa/Bangkit/tree/main/Capstone/model)
-
+* [Optimization of Universitas Negeri Malang Asset Building Construction Using Network Planning (Critical Path Method)](https://github.com/shafidaaaa/UM/tree/main/Asset%20Building)
 ---
 
 ### GitHub Stats
