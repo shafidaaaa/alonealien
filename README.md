@@ -14,6 +14,8 @@
 * [Air Quality in Beijing District Analysis](https://github.com/shafidaaaa/dicoding-belajar/tree/main/AIRQUALITYV2)
 * [BISINDO Letter Sign Language Classification](https://github.com/shafidaaaa/Bangkit/tree/main/Capstone/model)
 * [Optimization of Universitas Negeri Malang Asset Building Construction Using Network Planning (Critical Path Method)](https://github.com/shafidaaaa/UM/tree/main/Asset%20Building)
+* [Comparison of Forecasting Methods Using Double Exponential Smoothing, Double Moving Average, and ARIMA on India's GDP Data ](https://github.com/shafidaaaa/UM/tree/main/GDP%20India%20Time%20Series)
+
 ---
 
 ### GitHub Stats
