@@ -2,9 +2,23 @@
   <h1 align="left">GET TO KNOW ME! 🌜😺</h1><img src="https://github.com/shafidaaaa/shafidaaaa/blob/main/pixel%20art%20totoro5.png" width="200" align="right">
 </center>
 
+<h1 align="center">Hi 👋, I'm shafida</h1>
+<h3 align="center">A passionate frontend machine learning developer from Indonesia</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shafidaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="shafidaaaa" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shafidaaaa" alt="shafidaaaa" /></a> </p>
+
+- 🔭 I’m currently working on [Signlingo](https://github.com/calvinkrisdiant/Signlingo/tree/main)
+
+- 🌱 I’m currently learning **Deep Learning**
+
+- 💬 Ask me about **AI, machine learning, deep learning**
+
+- 📫 How to reach me **shafidasoniqbaale@gmail.com**
 ---
 
-### HI! I'm Shafida and I'm interested in machine learning and this is why I join Bangkit's program, now I'm learning about how to do Object Detection 🔥 Hopefully, I will be able to do it in the future 💪
+### I'm interested in machine learning and this is why I join Bangkit's program, now I'm learning about how to do Object Detection 🔥 Hopefully, I will be able to do it in the future 💪
 
 ---
 
@@ -31,20 +45,7 @@
 
 ----BATASSS------
 
-<h1 align="center">Hi 👋, I'm shafida</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shafidaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="shafidaaaa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shafidaaaa" alt="shafidaaaa" /></a> </p>
-
-- 🔭 I’m currently working on [Signlingo](https://github.com/calvinkrisdiant/Signlingo/tree/main)
-
-- 🌱 I’m currently learning **Deep Learning**
-
-- 💬 Ask me about **AI, machine learning, deep learning**
-
-- 📫 How to reach me **shafidasoniqbaale@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
