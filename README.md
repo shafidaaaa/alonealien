@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **AI, machine learning, deep learning**
 
-- 📫 How to reach me **shafidasoniqbaale@gmail.com**
+- 📫 How to reach me **shafidaaaaa@gmail.com**
 ---
 
 ### I'm interested in machine learning and this is why I join Bangkit's program, now I'm learning about how to do Object Detection 🔥 Hopefully, I will be able to do it in the future 💪
