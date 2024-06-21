@@ -5,10 +5,6 @@
 <h1 align="center">Hi 👋, I'm shafida</h1>
 <h3 align="center">A passionate frontend machine learning developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shafidaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="shafidaaaa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shafidaaaa" alt="shafidaaaa" /></a> </p>
-
 - 🔭 I’m currently working on [Signlingo](https://github.com/calvinkrisdiant/Signlingo/tree/main)
 
 - 🌱 I’m currently learning **Deep Learning**
@@ -43,7 +39,10 @@
 </center>
 
 
-----BATASSS------
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shafidaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="shafidaaaa" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shafidaaaa" alt="shafidaaaa" /></a> </p>
 
 
 
