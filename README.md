@@ -28,6 +28,7 @@
 * [Comparison of Forecasting Methods Using Double Exponential Smoothing, Double Moving Average, and ARIMA on India's GDP Data ](https://github.com/shafidaaaa/UM/tree/main/GDP%20India%20Time%20Series)
 * [Observation and Analysis of Differences in Memory Span Between 30 Males and Females Using a Two-Sample T-Test](https://github.com/shafidaaaa/UM/tree/main/Memory%20Span)
 * [Estimation of Polynomial Regression using Newton Raphson's Method](https://github.com/shafidaaaa/UM/blob/main/Estimation%20Linear%20Regression%20Newton%20Raphson/artikel.pdf)
+* [Linear Regression from Scratch/Regresi Linear Manual](https://github.com/shafidaaaa/random/blob/main/Regresi%20Linear%20from%20Scratch/linreg.ipynb)
 ---
 
 ### GitHub Stats
